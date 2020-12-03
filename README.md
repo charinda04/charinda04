@@ -21,7 +21,10 @@
 </p>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charinda04)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charinda04&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charinda04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h3>Where to find me</h3>
