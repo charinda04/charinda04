@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=charinda04)](https://github.com/LordDashMe/github-contribution-stats/)
+
+
 <!--
 **charinda04/charinda04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
