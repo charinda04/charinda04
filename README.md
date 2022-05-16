@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 <div> 
   <table>
     <td>
@@ -64,3 +64,5 @@ Here are some ideas to get you started:
     </td>
   </table>
 </div>
+
+ -->
